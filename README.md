@@ -1,3 +1,7 @@
+# Moved
+
+The repository moved to https://github.com/Magisk-Modules-Alt-Repo/supl-replacer
+
 # Magisk SUPL replacer
 
 Magisk module to replace the SUPL (Secure User-Plane Location) provider in Android's gps.conf.
